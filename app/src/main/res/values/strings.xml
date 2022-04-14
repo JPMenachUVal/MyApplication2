@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_celular">Teléfono:</string>
+    <string name="btnmostrar">MOSTRAR</string>
+    <string name="btninvertir">INVERTIR</string>
+</resources>
