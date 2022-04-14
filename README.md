@@ -5,5 +5,5 @@ APRENDER MARKDOWNS
 Estamos utilizando la implementación de una interfaz de manera global a nivel de clase
 para implementar un boton
 Tenemos los siguientes botones:
-Boton ´mostrar datos´
-Boton invertir numeros
+'Boton mostrar datos'
+'Boton invertir numeros'
